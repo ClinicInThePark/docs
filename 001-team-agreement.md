@@ -1,4 +1,4 @@
-#Team communication and co-working agreement
+# Team communication and co-working agreement
 
 Team Clinic in the Park
 
