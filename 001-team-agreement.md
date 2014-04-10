@@ -7,6 +7,7 @@ Eric Acampora, Eddie Duong, Hugo Polanco, Ka Lun Lee
 ## Weekly meeting
 
 Wednesdays, 5pm, ICS 193.
+Wednesdays, 6pm-8pm ICS 193/ICS 364
 
 ## Co-working times
 
@@ -36,6 +37,7 @@ We will use Git and GitHub for file management.
 Specifically, we will keep all files in GitHub repositories owned by our organization, "Clinic in the Park".
 
 We will keep documentation in the "docs" repository.
+We will write documents and post them through GitHub as well as work collaboratively through Google Docs.
 
 We will keep code in the "database" repository. 
 
