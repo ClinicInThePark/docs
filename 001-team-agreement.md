@@ -4,10 +4,9 @@ Team Clinic in the Park
 
 Eric Acampora, Eddie Duong, Hugo Polanco, Ka Lun Lee
 
-## Weekly meeting(s)
+## Weekly meeting
 
 Wednesdays, 5pm, ICS 193.
-Wednesdays, 6pm-8pm ICS 193/ICS 364
 
 ## Co-working times
 
