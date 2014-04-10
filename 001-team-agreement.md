@@ -14,17 +14,20 @@ Majority of the co-working will be in ICS 193, but we will also have co-working 
 and time periods if there are schedule problems.
 
 Mondays  
-9 AM - 12 PM: all  
-12 PM - 3 PM: Alice, Brian
+12 PM - 2 PM: Ka Lun, Eddie  
+8 PM - 10 PM: all
 
 Tuesdays  
-9 AM - 12 PM: Carol, Derek
+8 PM - 10 PM: all
 
 Wednesdays  
-10 AM - 2 PM: all
+6:30 PM - 10 PM: all 
 
-Saturdays  
-10 AM - 3 PM: all
+Thursdays
+8 PM - 10 PM: all
+
+Friday
+5 PM - 8:30 PM: all
 
 ## File management
 
