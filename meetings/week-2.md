@@ -21,11 +21,13 @@ Offices of Clinic in the Park, Irvine, CA, Friday Apr 11, 9 AM
 
 ## Communication schedule
 
-We will meet Kristin in person every Friday at Sqrls-R-Us at 12 PM.
+We will meet Kristin and the rest of the Clinic in the Park staff in person every other Friday at the Clinic in the Park offices at 9 AM.
+
+We will have a Google Hangout session with Kristin every Friday. Meeting times will vary due to her fluctuating schedule. 
 
 We will also email them a report of what we have done in the last week, with relevant links to changes on the working application, every Sunday by 8 PM.
 
 ## Project goals
 
-Our goal this quarter is to produce a working, live, "minimum viable" version of SimSquirrel. It should be deployed on a subdomain of Sqrls-R-Us's current website, simsquirrel.sqrlsrus.com.
+Our goal this quarter is to produce a working, live, prototype version of the record tracking database that can be used by both patients and staff.  It will be deployed on the Clinic in the Park server and can  be accessed through the Clinic in the Park website.
 
