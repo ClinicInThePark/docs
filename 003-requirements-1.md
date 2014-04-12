@@ -4,14 +4,6 @@ Team Clinic in the Park
 
 Eric Acampora, Eddie Duong, Ka Lun Lee, Hugo Polanco
 
-## Assumptions
-
-The user will have:
-
-+ a computer with internet access 
-+ a mouse and keyboard
-+ Decent understanding of how to operate a computer and web browser
-
 ## Functional Requirements
 
 ###database
@@ -30,6 +22,26 @@ The user will have:
 
 
 ## Non-functional Requirements
++ Needs to be easily-maintainable going into the future.
++ Needs to be accessibile to providers at other healthcare establishments.
++ Must be HIPAA-compliant and in line with privacy and other security concerns.
++ Usability needs to be focused on visitors and providers that attend Clinic in the Park event.
++ Needs to be portable, as the primary setting (in which data will be recorded) is outdoors at OC Great Park.
++ Must be able to quickly and easily backup information.
++ Needs to be reliable and efficient.
+
+## Assumptions
+
+If outdoors at OC Great Park, the user will:
+
++ have a functioning, portable device with networking capability and/or Internet access. 
++ have decent understanding of how to operate that device.
+
+In other settings, the user will:
+
++  have access to a functional device with Internet access.
++  have decent understanding of how to operate that device.
++  have some sort of login credentials to access the system.
 
 
 
