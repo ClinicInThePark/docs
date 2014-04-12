@@ -2,7 +2,7 @@ docs
 ====
 # What this software must do
 
-Team (Need A Team Name)
+Team Clinic in the Park 
 
 Eric Acampora, Eddie Duong, Ka Lun Lee, Hugo Polanco
 
