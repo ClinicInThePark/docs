@@ -6,7 +6,7 @@ Eric Acampora, Eddie Duong, Ka Lun Lee, Hugo Polanco
 
 ## Functional Requirements
 
-###database
+### Database
 
 + Create a database to store client information.
 + Can be accessed by staff accounts and patients, but patient accounts have limited access.
