@@ -60,4 +60,24 @@ things I learned or things that I should keep in mind for the future.
 9. I will communicate my learning to my team by also sharing on a document that will talk about what I have been working on for that particular day, what I may have questions on, and what I plan on learning on next. 
 
 
-##
+##Team Member Name: Eddie Duong
+2. How well can you code? Can code "okay"
+
+3. HTML: a couple of times
+   CSS: never
+   MySQL: a couple of tmes
+   PHP: never 
+   CakePHP framework: never heard of it
+   Javascript: once 
+
+4. To contribute fully to this project, I need to enchance my coding skills in HTML, MySQL and Javascript. I will also need to learn CSS, PHP, and CakePHP framework.
+
+5. I will dedicate 2-3 hours each day to learning these languages. I plan on spending lots of time reading and researching about these languages including tutorials and several programming excercises. 
+
+6. I plan on doing this every evening once I get off from school and work which is usually around 8PM. I also plan on setting aside some time on my weekends that will be dedicated to studying these languages. 
+
+7. During the learning period, I will be at home. I personally work better in a quiet and comfortable environment where I have access to my own resources (27' dual monitor setup along with two additional laptops). 
+
+8. My plan on learning is to utilize as much online resources as possible, such as CodeAcademy (for CSS and PHP) and Eloquent JavaScript (a free ebook). I plan on going through two sections on CodeAcademy and two chapters on Eloquent JavaScript per day. Anytime I run into any struggles or have any questions I will use stackoverflow.com to help me.
+
+9. I will communicate my learning to my team by also sharing on a document of what I have been working on, what I've learned, what interesting things that I learned that could be essential to other team members, and what questions I have (if any). 
