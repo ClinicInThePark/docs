@@ -13,7 +13,7 @@ the website to work with the database storing patient information.
  
 5.  What is your overall architecture (e.g., MVC)?
  
-6.  What data will you need to store? We will need to store log-in and patient information, like check-up or BIM of patients.  
+6.  What data will you need to store? We will need to store log-in and patient information, like check-up or BMI of patients.  
 
 7.  What is your database design (or other data storage scheme)?  
  
