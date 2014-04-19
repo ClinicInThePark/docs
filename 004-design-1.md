@@ -1,5 +1,5 @@
  
- #Software Design document
+#Software Design document
 1.  What programming language(s) will you use? We will use Javascript, PHP, MySQL.
  
 2.  What framework(s), if any, will you use? We will use CakePHP framework. 
