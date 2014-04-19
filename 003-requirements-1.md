@@ -9,7 +9,7 @@ Eric Acampora, Eddie Duong, Ka Lun Lee, Hugo Polanco
 ### Database
 
 + Create a database to store client information.
-+ Can be accessed by staff accounts and patients, but patient accounts have limited access.
++ If accessed with an account, the database should lead to the user interface.
  
 
 ### Website management
