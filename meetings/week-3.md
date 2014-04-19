@@ -30,10 +30,10 @@ Our sponsor will work on a set of requirements that will be given to us on an in
 
 ## Project development and delivery timeline
 
-+We will develop a working database by Week 7. We will then run this through our project sponsors to confirm requirement satisfaction.
+We will develop a working database by Week 7. We will then run this through our project sponsors to confirm requirement satisfaction.
 
-+After database completion, we will provide a section for the website for users to be able to access the database through the website, this will be done by Week 8. We will then inform our project sponsors of this accomplishment and whether they are satisfied with this. 
+After database completion, we will provide a section for the website for users to be able to access the database through the website, this will be done by Week 8. We will then inform our project sponsors of this accomplishment and whether they are satisfied with this. 
 
-+After, we will make a user interface for the website section that connects to the database by Week 9. We will then show this working deliverable to our sponsors for feedback. 
+After, we will make a user interface for the website section that connects to the database by Week 9. We will then show this working deliverable to our sponsors for feedback. 
 
-+We will conduct a user feedback analysis by attending the Clinic in the Park on May 11 and have patients test our website. We will then take feedback in consideration and improve our working project.
+We will conduct a user feedback analysis by attending the Clinic in the Park on May 11 and have patients test our website. We will then take feedback in consideration and improve our working project.
