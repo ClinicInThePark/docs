@@ -37,4 +37,27 @@ provided by the textbook. I also plan on using other resources like stackoverflo
 things I learned or things that I should keep in mind for the future. 
 
 
+## Team Member Name: Hugo Polanco
+2. How well can you code? Can code "okay"
 
+3. HTML: a couple of times (most recently last quarter)
+   CSS: a couple of times (most recently last quarter)
+   MySQL: never
+   PHP: never
+   CakePHP framework: never heard of it
+   Javascrip: a couple of times
+
+4. To contribute fully to this project, I need to focus on improving my skills in HTML, CSS, and reading up and learning on MySQL, PHP, and CakePHP framework (since I have never worked with these languages before).
+
+5. I will spend 2-3 hours every day since I have gaps during class and work to learn more on these languages, and then use my weekends to spend between 4-5 hours learning.
+
+6. I plan on learning after class and work, in my gaps and once I get home, and definitely during weekends, when I have the most free time.
+
+7. During the learning period, I will be at Donald Bren Hall, I have classes for most of the day there and have access to a study room where I can study. I will personally try to avoid my apartment since I get easily distracted.
+
+8. My plan on learning is to go through online tutorials such as w3Schools (w3schools.com/PHP, w3schools.com/sql), CodeCademy (codecademy.com/tracks/php), and using books to learn more on HTML and CSS (CSS: ). I plan on going through these tutorials and reading the books at least once-twice a day (reading through 2 sections a day during the week, and trying to do 3 chapters during the weekend). Any time I have questions I will consult with team members that have more experience than me or go on websites such as stackoverflow.com. 
+
+9. I will communicate my learning to my team by also sharing on a document that will talk about what I have been working on for that particular day, what I may have questions on, and what I plan on learning on next. 
+
+
+##
