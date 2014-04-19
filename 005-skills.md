@@ -55,7 +55,7 @@ things I learned or things that I should keep in mind for the future.
 
 7. During the learning period, I will be at Donald Bren Hall, I have classes for most of the day there and have access to a study room where I can study. I will personally try to avoid my apartment since I get easily distracted.
 
-8. My plan on learning is to go through online tutorials such as w3Schools (w3schools.com/PHP, w3schools.com/sql), CodeCademy (codecademy.com/tracks/php), and using books to learn more on HTML and CSS (CSS: ). I plan on going through these tutorials and reading the books at least once-twice a day (reading through 2 sections a day during the week, and trying to do 3 chapters during the weekend). Any time I have questions I will consult with team members that have more experience than me or go on websites such as stackoverflow.com. 
+8. My plan on learning is to go through online tutorials such as w3Schools (w3schools.com/PHP, w3schools.com/sql), CodeCademy (codecademy.com/tracks/php), and using books to learn more on HTML and CSS (CSS: Web Programming and Internet Technologies: An E-commerce Approach). I plan on going through these tutorials and reading the books at least once-twice a day (reading through 2 sections a day during the week, and trying to do 3 chapters during the weekend). Any time I have questions I will consult with team members that have more experience than me or go on websites such as stackoverflow.com. 
 
 9. I will communicate my learning to my team by also sharing on a document that will talk about what I have been working on for that particular day, what I may have questions on, and what I plan on learning on next. 
 
