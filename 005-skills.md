@@ -80,4 +80,30 @@ things I learned or things that I should keep in mind for the future.
 
 8. My plan on learning is to utilize as much online resources as possible, such as CodeAcademy (for CSS and PHP) and Eloquent JavaScript (a free ebook). I plan on going through two sections on CodeAcademy and two chapters on Eloquent JavaScript per day. Anytime I run into any struggles or have any questions I will use stackoverflow.com to help me.
 
-9. I will communicate my learning to my team by also sharing on a document of what I have been working on, what I've learned, what interesting things that I learned that could be essential to other team members, and what questions I have (if any). 
+9. I will communicate my learning to my team by also sharing on a document of what I have been working on, what I've learned, what interesting things that I learned that could be essential to other team members, and what questions I have (if any).
+
+
+## Team Member Name: Eric Acampora
+
+1. Name: Eric Acampora
+
+2. How well can you code? "pretty good"
+
+3. HTML: "lots and lots"
+   CSS: "lots and lots"
+   MySQL: "lots and lots"
+   PHP: "a couple times"
+   CakePHP Framework: "never heard of it"
+   JavaScript: "a couple times"
+
+4. Need to learn how to use CakePHP framework, and refresh myself on all languages being used.
+
+5. I will dedicate roughly 20 to 30 hours over the next two weeks in preparation for execution.
+
+6. I will be setting aside time on evenings from 8:00 to 11:00 PM. I will also set aside arbitrary times during weekends to continue preparation.
+
+7. All preparation will be done at my home work station, which is quiet and comfortable. I learn best there.
+
+8. I will be going through the official CakePHP documentation located at http://book.cakephp.org/2.0/en/tutorials-and-examples.html, as well as refreshing myself on PHP and JavaScript with these tutorials from TheNewBoston, respectively: https://www.youtube.com/playlist?list=PL442FA2C127377F07 and https://www.youtube.com/playlist?list=PL46F0A159EC02DF82. I have used TheNewBoston tutorials in the past with much success.
+
+9. I will share a document with my team in which I will share my progress, as well as highlight important things that will be helpful for all of us to know as we begin execution of the project.
