@@ -21,8 +21,7 @@ Google Hangout Meeting, Donald Bren Hall - Irvine, CA, Wednesday Apr 16, 6PM
 
 ## Business case changes
 
-None...
-Need to look at this guys...
+None
 
 ## Requirements document changes
 
