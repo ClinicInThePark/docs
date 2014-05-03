@@ -20,7 +20,7 @@
 ###Miscellaneous
 + Design CITP passport
 
-+ Make it HIPAA compliant
++ Make software HIPAA compliant
 
 ###Database
 + Database creation. 
