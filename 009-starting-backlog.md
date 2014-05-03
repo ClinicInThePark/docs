@@ -14,8 +14,22 @@
 
 + Integrate a donation link to PayPal
 
++ Develop user interface connecting the website to the database. 
+
+
 ###Miscellaneous
 + Design CITP passport
 
-###Database
++ Make it HIPAA compliant
 
+###Database
++ Database creation. 
+
++ Allow input from the website into the database. 
+
++ Allow database to only receive input from certain accounts.
+
++ Allow user accounts to access their record from past Clinic visits.
+ 
++ Track number of visitors and record what services they received at the Clinic 
+ 
