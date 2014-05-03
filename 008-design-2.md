@@ -1,4 +1,3 @@
-#Still need to edit this 
 
  #Software Design document
 1.  What programming language(s) will you use? We will use HTML,CSS, and Javascript for connecting the database to the website. In addition, we will use PHP and SQL queries to develop and maintain the database. 
