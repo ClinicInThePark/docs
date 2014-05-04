@@ -7,8 +7,11 @@
 
 + Add video on homepage
 
+## Miscellaneous
+
++ Design CITP passport
+
 ##Database
 
 + Database creation. 
 
-+ Allow input from the website into the database. 
