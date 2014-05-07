@@ -8,4 +8,4 @@ START: Working Hard and Building Client Trust
 
 IMPROVE: Quality of Assignments
 
-Continue: Our Good (and Fast) Communication
+CONTINUE: Our Good (and Fast) Communication
