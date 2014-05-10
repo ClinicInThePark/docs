@@ -9,7 +9,8 @@
 + Added video to Clinic in the Park Website.
 + Redesign Clinic in the Park's Passport.
 + Updated website information (events,calendar,etc.,)
++ Create navigation bar for future database
 
 #Not Completed
-+ Create navigation bar for future database
-+ Design database
+
++ Design database (From meeting with Six: Our plan is to have the database designed by next week, and built the following week.)
