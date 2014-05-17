@@ -4,8 +4,10 @@ Clinic in the Park
 
 Eric Acampora, Eddie Duong, Hugo Polaco, Ka Lun Lee
 
-## Present at Google Hangouts (Week 6) Meeting: Eric Acampora, Ka Lun Lee, Eddie Duong
-## Presetn at Week 7 Meeting: Eric Acampora, Ka Lun Lee, Hugo Polanco
+# Present at Meetings
+
+Present at Google Hangouts (Week 6) Meeting: Eric Acampora, Ka Lun Lee, Eddie Duong
+Present at Week 7 Meeting: Eric Acampora, Ka Lun Lee, Hugo Polanco
 
 ### Sponsors
 
