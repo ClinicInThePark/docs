@@ -34,7 +34,6 @@ Eric Acampora, Eddie Duong, Ka Lun Lee, Hugo Polanco
  
 + Staff can input information into the database through the website. 
 + Patients can access database through website to look over medical information from Clinic in the Park check-ups
-+ Patients can input their own medical information through the website and into the database
 
 ###### Miscellaneous
 + If a user presses the "recover password" button, it will lead the user to a page asking for the user ID and the answer for a previously picked security question.
@@ -56,7 +55,7 @@ Eric Acampora, Eddie Duong, Ka Lun Lee, Hugo Polanco
    + Write a tutorial and detailed documentation on maintaining the electronic system for future people modifying our work (tentative, might not be necessary). 
 
 4) Are there some requirements for the final product that are not yet clear? If so, how can you get clear about them?
-  + There are several requirements that are not yet clear. One of the requirements in our documents is: "Needs to be portable, as the primary setting (in which data will be recorded) is outdoors at OC Great Park. We are unclear whether our sponsor wants to use the electronic system for recording information during clinic events or just for information storage. This is a problem, because we would have to create some sort of offline system if they want to use the electronic system for recording during events. We plan on asking our sponsor the next time we meet.
+
   
 5) What is the most important work to do to make progress on delivering the final product?
   + The most important work to make progresss towards the final product is managing to connect to the database through the website.
