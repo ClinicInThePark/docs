@@ -51,7 +51,7 @@ Eric Acampora, Eddie Duong, Ka Lun Lee, Hugo Polanco
 
 3) What other work do you need to do to deliver the final product?
   + We need to finish implementing the login system. Other work we need to do are the following: 
-  ++ design and implement the user interface for dashboard both the staff and visitors interact with. 
+  + design and implement the user interface for dashboard both the staff and visitors interact with. 
   ++ Successfully connect the database to the website. This task will be considered done if we are able to access the database through the website.
   ++ Write a tutorial and detailed documentation on maintaining the electronic system for future people modifying our work (tentative, might not be necessary). 
 
