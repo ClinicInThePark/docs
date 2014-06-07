@@ -52,8 +52,8 @@ Eric Acampora, Eddie Duong, Ka Lun Lee, Hugo Polanco
 3) What other work do you need to do to deliver the final product?
   + We need to finish implementing the login system. Other work we need to do are the following: 
    + design and implement the user interface for dashboard both the staff and visitors interact with. 
-  ++ Successfully connect the database to the website. This task will be considered done if we are able to access the database through the website.
-  ++ Write a tutorial and detailed documentation on maintaining the electronic system for future people modifying our work (tentative, might not be necessary). 
+   + Successfully connect the database to the website. This task will be considered done if we are able to access the database through the website.
+   + Write a tutorial and detailed documentation on maintaining the electronic system for future people modifying our work (tentative, might not be necessary). 
 
 4) Are there some requirements for the final product that are not yet clear? If so, how can you get clear about them?
   + There are several requirements that are not yet clear. One of the requirements in our documents is: "Needs to be portable, as the primary setting (in which data will be recorded) is outdoors at OC Great Park. We are unclear whether our sponsor wants to use the electronic system for recording information during clinic events or just for information storage. This is a problem, because we would have to create some sort of offline system if they want to use the electronic system for recording during events. We plan on asking our sponsor the next time we meet.
