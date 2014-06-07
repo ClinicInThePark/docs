@@ -7,7 +7,7 @@ Eric Acampora, Eddie Duong, Ka Lun Lee, Hugo Polanco
 1) What did you deliver to your sponsor at the end of spring quarter? 
 
 + We delivered a completed website and a login system connected to a database as a basis for their electronic information storage. 
-
++ Passport redesigns
 ##### Functional Requirements met
 
  Database:
