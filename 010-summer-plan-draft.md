@@ -6,18 +6,19 @@ Eric Acampora, Eddie Duong, Ka Lun Lee, Hugo Polanco
 
 1) What did you deliver to your sponsor at the end of spring quarter? 
 
-++ We delivered a completed website and a login system connected to a database as a basis for their electronic information storage. 
++ We delivered a completed website and a login system connected to a database as a basis for their electronic information storage. 
 
 ##### Functional Requirements met
 
-###### Database
+ Database:
 
 + Create a database to store client information.
 + If accessed with a valid account, the database should lead to the user interface.
 + If accessed with a patient account, patients are not allowed to input information.
 + If acessed with staff accounts, staff are allowed to input and change information on patient accounts.
 
-###### Website management
+ Website management:
+ 
 + The system will provide a box on the website for users to subscribe to the Clinic in the Park emails (flyers, newsletters, etc).
 + Allow the website to have be interactive with the database and allow patients and staff to access the website for patient information.
 
@@ -29,8 +30,8 @@ Eric Acampora, Eddie Duong, Ka Lun Lee, Hugo Polanco
 2) What functional and nonfunctional requirements remain to be met for the final product?
 
 ##### Functional Requirements that remain to be met
-
-###### Website management
+ Website management:
+ 
 + Staff can input information into the database through the website. 
 + Patients can access database through website to look over medical information from Clinic in the Park check-ups
 + Patients can input their own medical information through the website and into the database
