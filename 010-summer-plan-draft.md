@@ -68,4 +68,4 @@ Eric Acampora, Eddie Duong, Ka Lun Lee, Hugo Polanco
   + With the exception of Eric, the rest are new to programming in PHP/SQL and using web servers.  
   
 8) How can team members without these skills get them?
-  +Team members without these skills will be able to acquire (and reach a satisfactory level) by reading PHP/SQL documentation and working on small side projects to put their new knowledge to test. 
+  + Team members without these skills will be able to acquire (and reach a satisfactory level) by reading PHP/SQL documentation and working on small side projects to put their new knowledge to test. 
