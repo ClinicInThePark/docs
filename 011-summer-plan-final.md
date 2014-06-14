@@ -1,8 +1,9 @@
-Team Clinic in the Park 
+# Clinic in the Park
+## Team CitP 
 
 Eric Acampora, Eddie Duong, Ka Lun Lee, Hugo Polanco
 
-#Assessment
+### Assessment
 
 1) What did we deliver to our sponsors at the end of spring quarter? 
 
@@ -13,6 +14,10 @@ Eric Acampora, Eddie Duong, Ka Lun Lee, Hugo Polanco
 + A login/logout (including user creation and viewability) system connected to the database. 
 
 2) What feedback did we receive from our sponsors?
+
++ Our sponsors were happy with our progress, and are looking forward to seeing how the project will continue to unfold this summer and beyond.
+
+3) What functional and nonfunctional requirements remain to be met for the final product?
 
 
 ##### Functional Requirements met
@@ -32,10 +37,6 @@ Eric Acampora, Eddie Duong, Ka Lun Lee, Hugo Polanco
 ##### Non-functional Requirements met
 + Needs to be accessibile to providers at other healthcare establishments.
 + Must be able to quickly and easily backup information.
-
-
-2) What functional and nonfunctional requirements remain to be met for the final product?
-
 ##### Functional Requirements that remain to be met
  Website management:
  
@@ -55,23 +56,38 @@ Eric Acampora, Eddie Duong, Ka Lun Lee, Hugo Polanco
 + Needs to be reliable and efficient.
 + Must not take longer than 5 seconds to load anything.
 
-3) What other work do you need to do to deliver the final product?
-  + We need to finish implementing the login system. Other work we need to do are the following: 
-   + design and implement the user interface for dashboard both the staff and visitors interact with. 
-   + Successfully connect the database to the website. This task will be considered done if we are able to access the database through the website.
-   + Write a tutorial and detailed documentation on maintaining the electronic system for future people modifying our work (tentative, might not be necessary). 
+4) What other work do you need to do to deliver the final product?
++ We need to finish implementing the login system. Other work we need to do are the following: 
++ design and implement the user interface for dashboard both the staff and visitors interact with. 
++ Successfully connect the database to the website. This task will be considered done if we are able to access the database through the website.
++ Write a tutorial and detailed documentation on maintaining the electronic system for future people modifying our work (tentative, might not be necessary). 
 
-4) Are there some requirements for the final product that are not yet clear? If so, how can you get clear about them?
+5) Are there some requirements for the final product that are not yet clear? If so, how can you get clear about them?
 
   
-5) What is the most important work to do to make progress on delivering the final product?
-  + The most important work to make progresss towards the final product is managing to connect to the database through the website.
-  
-6) What skills are needed to do this work?
- + The skills we will need are: programming in PHP/SQL, knowledge of web servers.
- 
+6) What is the most important work to do to make progress on delivering the final product?
++ The most important work to make progresss towards the final product is managing to connect to the database through the website.
++ The skills we will need are: programming in PHP/SQL, knowledge of web servers.
+
 7) Who in the team has these skills? Who does not?
-  + With the exception of Eric, the rest are new to programming in PHP/SQL and using web servers.  
-  
++ With the exception of Eric, the rest are new to programming in PHP/SQL and using web servers.  
+
 8) How can team members without these skills get them?
-  + Team members without these skills will be able to acquire (and reach a satisfactory level) by reading PHP/SQL documentation and working on small side projects to put their new knowledge to test. 
++ Team members without these skills will be able to acquire (and reach a satisfactory level) by reading PHP/SQL documentation and working on small side projects to put their new knowledge to test. 
+
+### Timeline
+
+#### Learning Tasks
++ asdf
+
+#### Communication Tasks
++ asdf
+
+#### Implementation Tasks
++ asdf
+
+#### Testing Tasks
++ asdf
+
+#### Deployment Tasks
++ asdf
