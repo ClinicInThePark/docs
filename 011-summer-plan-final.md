@@ -27,7 +27,7 @@ Functional Requirements:
 + The information displayed on each dashboard must automatically update based on which Health and Wellness Clinic event is currently selected.
 + Visitor Dashboard must display information based on services received by the visitor at a given Health and Wellness Clinic event.
 + Staff Dashboard must display information based on a given Health and Wellness Clinic event as a whole.
-+ Staff Dashboard must allow user to add new and edit existing users, events, services, and specialized documentation to be displayed.
++ Staff Dashboard must allow user to add new, view, and edit existing users, events, services, and specialized documentation to be displayed.
 
 Nonfunctional Requirements:
 + The interface as a whole needs to be clean, simple, and minimalistic in design.
@@ -47,7 +47,7 @@ Nonfunctional Requirements:
 
   
 6) What is the most important work to do to make progress on delivering the final product?
-+ The most important work to make progresss towards the final product is managing to connect to the database through the website.
++ The most important work to make progress towards the final product is managing to connect to the database through the website.
 
 7) What skills are needed to do this work?
 + The skills we will need are: programming in PHP/SQL, knowledge of web servers.
