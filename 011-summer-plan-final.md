@@ -61,16 +61,19 @@ Nonfunctional Requirements:
 ### Timeline
 
 #### Learning Tasks
-+ asdf
++ Ka Lun: Learn PHP/SQL, work on web authentication and implimentation. 
++ 
 
 #### Communication Tasks
-+ asdf
++ Ka Lun: Update team with what I did every week
++ Ka Lun: Google Hangsout with sponsor/team every 2 weeks.
 
 #### Implementation Tasks
-+ asdf
++ Ka Lun: Implementing visitor dashboard.
 
 #### Testing Tasks
-+ asdf
++ Ka Lun: Dashboard functionality: Making sure information is being displayed on the visitor dashboard. 
 
 #### Deployment Tasks
-+ asdf
++ Ka Lun: Test connecting between visitor login and visitor dashboard. Make sure you cannot use visitor accounts to login 
++ through staff login. 
