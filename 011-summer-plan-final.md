@@ -19,54 +19,37 @@ Eric Acampora, Eddie Duong, Ka Lun Lee, Hugo Polanco
 
 3) What functional and nonfunctional requirements remain to be met for the final product?
 
+Functional Requirements:
++ The tracking system interface must be accessible through a portal on the CitP website.
++ A user must be granted (or denied) access to a particular dashboard based on their user status of either "visitor" or "staff."
++ Users must be provided an option to retrieve their login credentials.
++ Each dashboard must allow users to select from a list of Health and Wellness Clinic events.
++ The information displayed on each dashboard must automatically update based on which Health and Wellness Clinic event is currently selected.
++ Visitor Dashboard must display information based on services received by the visitor at a given Health and Wellness Clinic event.
++ Staff Dashboard must display information based on a given Health and Wellness Clinic event as a whole.
++ Staff Dashboard must allow user to add new and edit existing users, events, services, and specialized documentation to be displayed.
 
-##### Functional Requirements met
-
- Database:
-
-+ Create a database to store client information.
-+ If accessed with a valid account, the database should lead to the user interface.
-+ If accessed with a patient account, patients are not allowed to input information.
-+ If acessed with staff accounts, staff are allowed to input and change information on patient accounts.
-
- Website management:
- 
-+ The system will provide a box on the website for users to subscribe to the Clinic in the Park emails (flyers, newsletters, etc).
-+ Allow the website to have be interactive with the database and allow patients and staff to access the website for patient information.
-
-##### Non-functional Requirements met
-+ Needs to be accessibile to providers at other healthcare establishments.
-+ Must be able to quickly and easily backup information.
-##### Functional Requirements that remain to be met
- Website management:
- 
-+ Staff can input information into the database through the website. 
-+ Patients can access database through website to look over medical information from Clinic in the Park check-ups
-
-###### Miscellaneous
-+ If a user presses the "recover password" button, it will lead the user to a page asking for the user ID and the answer for a previously picked security question.
-+ If a user presses the "forgot ID and password" button, the user is sent an email to the email he or she used for making the account. 
-
-
-##### Non-functional Requirements that remain to be met
-+ Needs to be easily-maintainable going into the future.
-+ Must be HIPAA-compliant and in line with privacy and other security concerns.
-+ Usability needs to be focused on visitors and providers that attend Clinic in the Park event.
-+ Needs to be portable, as the primary setting (in which data will be recorded) is outdoors at OC Great Park.
-+ Needs to be reliable and efficient.
-+ Must not take longer than 5 seconds to load anything.
+Nonfunctional Requirements:
++ The interface as a whole needs to be clean, simple, and minimalistic in design.
++ The system needs to be easily-maintainable into the future.
++ The system may need to be made HIPAA-compliant. This will depend on information we will receive from our sponsors regarding where they would like to host the system, and whether or not resulting requirments are too demanding.
++ The system needs to be reliable and efficient.
++ It should not take longer than five seconds to load anything.
 
 4) What other work do you need to do to deliver the final product?
-+ We need to finish implementing the login system. Other work we need to do are the following: 
-+ design and implement the user interface for dashboard both the staff and visitors interact with. 
-+ Successfully connect the database to the website. This task will be considered done if we are able to access the database through the website.
-+ Write a tutorial and detailed documentation on maintaining the electronic system for future people modifying our work (tentative, might not be necessary). 
++ A sutiable place to host the system will need to be located. Our sponsors are currently looking into this for us.
++ We need to further refine the login/logout system. 
++ A tutorial will need to be arranged to train users on how to use the system. 
++ A series of detailed documentation on system maintenance will need to be created.
+
 
 5) Are there some requirements for the final product that are not yet clear? If so, how can you get clear about them?
 
   
 6) What is the most important work to do to make progress on delivering the final product?
 + The most important work to make progresss towards the final product is managing to connect to the database through the website.
+
+7) What skills are needed to do this work?
 + The skills we will need are: programming in PHP/SQL, knowledge of web servers.
 
 7) Who in the team has these skills? Who does not?
