@@ -4,10 +4,17 @@ Eric Acampora, Eddie Duong, Ka Lun Lee, Hugo Polanco
 
 #Assessment
 
-1) What did you deliver to your sponsor at the end of spring quarter? 
+1) What did we deliver to our sponsors at the end of spring quarter? 
 
-+ We delivered a completed website and a login system connected to a database as a basis for their electronic information storage. 
-+ Passport redesigns
++ A completed website, which will be taken live by Mark Raymond himself, the CitP Webmaster.
++ A redesigned "passport" design that will eventually be used for data collection at Health and Wellness Clinic events.
++ A functional database in which to store users, events, and services.
++ An interactive interface mockup of the system.
++ A login/logout (including user creation and viewability) system connected to the database. 
+
+2) What feedback did we receive from our sponsors?
+
+
 ##### Functional Requirements met
 
  Database:
