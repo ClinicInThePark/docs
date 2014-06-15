@@ -81,6 +81,7 @@ We will be communicating with Professor Ziv and Six over email. Our first commun
 + Ka Lun: Learn PHP/SQL, work on web authentication and implimentation. 
 + Eric: I will be further familiarizing myself with CakePHP, determining the best way to separate content for two user types (Visitor and Staff), thinking about best ways to allow staff-side users to interact with the database (adding new data, viewing data, and editing existing data), and last but not least, researching best way to approach visual design of the interface.
 + Hugo: I will focus this summer to learn more skills with PHP/SQL and CSS. I don't have too much skills on those two languages/frameworks so I plan on getting more experience and doing projects with that.
++ Eddie: I will mainly focus on learning PHP/SQL and getting familiar with CakePHP.
 
 #### Communication Tasks
 + Ka Lun: Update team with what I did every week
