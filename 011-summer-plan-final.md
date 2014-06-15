@@ -88,18 +88,22 @@ We will be communicating with Professor Ziv and Six over email. Our first commun
 + Ka Lun: Google Hangsout with sponsor/team every 2 weeks.
 + Eric: Updating my team on my accomplishments each week, virtual Google Hangout with Kristin every two weeks, and monthly meeting with our sponsors at CitP office. I pledge to never take more than a day to respond to a team member unless in case of emergency, or if I have previously notified them that I will be unavailable for an extended period of time. I will also be updating Professor Ziv and Six every two weeks (based on the above communication structure) on our progress via email. 
 + Hugo: I plan on updating my team with the progress of my projects every week as well as meeting with my sponsors/team every 2 weeks. If there is a particular day I can't meet for any reason, I plan on making my teammates aware.
++ Eddie: Each week I will update my team on my progress either in person, our Facebook forum, or Google Hangout. I will also update Professor Ziv and Six every two weeks as well as doing a Google Hangout with Kristin biweekly. 
 
 #### Implementation Tasks
 + Ka Lun: Implementing visitor dashboard.
 + Eric: Working towards refining login/logout system, helping with events selection functionality and automated information update, and helping with population of dashboard information window. I also plan on specifically looking at how services will be managed by staff-side users.
 + Learning more skills with Cake PHP/SQL as well as CSS, then helping out with the refinement of the login/logout system.
++ Eddie: Continuing to build PHP/SQL skills and implement staff dashboard.
 
 #### Testing Tasks
 + Ka Lun: Dashboard functionality: Making sure information is being displayed on the visitor dashboard.
 + Eric: Will be continually debugging code and planning on performing cognitive walkthroughs with staff members. 
 + Hugo: Website maintenance as well as dashboard functionality once I have more experience with PHP/SQL & CSS.
++ Eddie: Debugbing the code for the dashboard.
 
 #### Deployment Tasks
 + Ka Lun: Test connecting between visitor login and visitor dashboard. Make sure you cannot use visitor accounts to login through staff login. 
 + Eric: Assisting in taking system live, monitoring system on regular basis, and ensuring that system can be appropriately taken down for maintenance and quickly restored. 
 + Hugo: Also assist in making CitP system live, provide maintenance, and work on visitor portal. 
++ Eddie: Implment portal into CitP website and making it live.
