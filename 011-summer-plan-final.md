@@ -80,20 +80,25 @@ We will be communicating with Professor Ziv and Six over email. Our first commun
 #### Learning Tasks
 + Ka Lun: Learn PHP/SQL, work on web authentication and implimentation. 
 + Eric: I will be further familiarizing myself with CakePHP, determining the best way to separate content for two user types (Visitor and Staff), thinking about best ways to allow staff-side users to interact with the database (adding new data, viewing data, and editing existing data), and last but not least, researching best way to approach visual design of the interface.
++ Hugo: I will focus this summer to learn more skills with PHP/SQL and CSS. I don't have too much skills on those two languages/frameworks so I plan on getting more experience and doing projects with that.
 
 #### Communication Tasks
 + Ka Lun: Update team with what I did every week
 + Ka Lun: Google Hangsout with sponsor/team every 2 weeks.
 + Eric: Updating my team on my accomplishments each week, virtual Google Hangout with Kristin every two weeks, and monthly meeting with our sponsors at CitP office. I pledge to never take more than a day to respond to a team member unless in case of emergency, or if I have previously notified them that I will be unavailable for an extended period of time. I will also be updating Professor Ziv and Six every two weeks (based on the above communication structure) on our progress via email. 
++ Hugo: I plan on updating my team with the progress of my projects every week as well as meeting with my sponsors/team every 2 weeks. If there is a particular day I can't meet for any reason, I plan on making my teammates aware.
 
 #### Implementation Tasks
 + Ka Lun: Implementing visitor dashboard.
 + Eric: Working towards refining login/logout system, helping with events selection functionality and automated information update, and helping with population of dashboard information window. I also plan on specifically looking at how services will be managed by staff-side users.
++ Learning more skills with Cake PHP/SQL as well as CSS, then helping out with the refinement of the login/logout system.
 
 #### Testing Tasks
 + Ka Lun: Dashboard functionality: Making sure information is being displayed on the visitor dashboard.
 + Eric: Will be continually debugging code and planning on performing cognitive walkthroughs with staff members. 
++ Hugo: Website maintenance as well as dashboard functionality once I have more experience with PHP/SQL & CSS.
 
 #### Deployment Tasks
 + Ka Lun: Test connecting between visitor login and visitor dashboard. Make sure you cannot use visitor accounts to login through staff login. 
 + Eric: Assisting in taking system live, monitoring system on regular basis, and ensuring that system can be appropriately taken down for maintenance and quickly restored. 
++ Hugo: Also assist in making CitP system live, provide maintenance, and work on visitor portal. 
