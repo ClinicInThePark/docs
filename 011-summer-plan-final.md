@@ -100,10 +100,10 @@ We will be communicating with Professor Ziv and Six over email. Our first commun
 + Ka Lun: Dashboard functionality: Making sure information is being displayed on the visitor dashboard.
 + Eric: Will be continually debugging code and planning on performing cognitive walkthroughs with staff members. 
 + Hugo: Website maintenance as well as dashboard functionality once I have more experience with PHP/SQL & CSS.
-+ Eddie: Debugbing the code for the dashboard.
++ Eddie: Debugging the code for the dashboard.
 
 #### Deployment Tasks
 + Ka Lun: Test connecting between visitor login and visitor dashboard. Make sure you cannot use visitor accounts to login through staff login. 
 + Eric: Assisting in taking system live, monitoring system on regular basis, and ensuring that system can be appropriately taken down for maintenance and quickly restored. 
 + Hugo: Also assist in making CitP system live, provide maintenance, and work on visitor portal. 
-+ Eddie: Implment portal into CitP website and making it live.
++ Eddie: Implement portal into CitP website and making it live.
