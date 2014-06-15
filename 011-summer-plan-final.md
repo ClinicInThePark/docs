@@ -44,13 +44,14 @@ Nonfunctional Requirements:
 
 
 5) Are there some requirements for the final product that are not yet clear? If so, how can you get clear about them?
++ One big potential requirement that we are still unsure on is the question of HIPPA complicany. Our sponsors will be talking with the informatics team at the UCI Medical Center about the project, and will possibly arrange a meeting for us with them if it is decided that this project will truly need to abide by HIPPA regulation.
++ We will continually question our sponsors until we receive a 'yes' or 'no' asnwer, so that we can safely proceed with the project without running into too many problems regarding this concern.
 
-  
 6) What is the most important work to do to make progress on delivering the final product?
-+ The most important work to make progress towards the final product is managing to connect to the database through the website.
++ The most important work will be implementing the dashboard information windows. This embodies essential functionality, such as how information will be selected based on user type, and how that information will automatically populate these windows based on current event date selection.
 
 7) What skills are needed to do this work?
-+ The skills we will need are: programming in PHP/SQL, knowledge of web servers.
++ The skills we will need are: programming in PHP/SQL, knowledge of web servers. Also, general knowledge of HTML/CSS.
 
 7) Who in the team has these skills? Who does not?
 + With the exception of Eric, the rest are new to programming in PHP/SQL and using web servers.  
@@ -60,20 +61,39 @@ Nonfunctional Requirements:
 
 ### Timeline
 
+#### Sponsor Meetings
+Beginning on the week of June 23, we will be meeting with our sponsor Kristin Alix every two weeks via Google Hangouts. Once a month, we will meet with our sponsors in person at the CitP office.
+
+We pledge to never leave a meeting without arranging a date for the next.
+
+#### Biweekly Communication Structure (with Professor Ziv and Six)
+We will be communicating with Professor Ziv and Six over email. Our first communication update will be on Saturday, June 13, but the following updates will take place every two weeks on Fridays, following the structure below:
++ Friday, June 27
++ Friday, July 11
++ Friday, July 25
++ Friday, August 8
++ Friday, August 22
++ Friday, September 5
++ Friday, September 17
++ Thursday, October 2 (according to Professor Ziv, this will likely be in form of progress report)
+
 #### Learning Tasks
 + Ka Lun: Learn PHP/SQL, work on web authentication and implimentation. 
-+ 
++ Eric: I will be further familiarizing myself with CakePHP, determining the best way to separate content for two user types (Visitor and Staff), thinking about best ways to allow staff-side users to interact with the database (adding new data, viewing data, and editing existing data), and last but not least, researching best way to approach visual design of the interface.
 
 #### Communication Tasks
 + Ka Lun: Update team with what I did every week
 + Ka Lun: Google Hangsout with sponsor/team every 2 weeks.
++ Eric: Updating my team on my accomplishments each week, virtual Google Hangout with Kristin every two weeks, and monthly meeting with our sponsors at CitP office. I pledge to never take more than a day to respond to a team member unless in case of emergency, or if I have previously notified them that I will be unavailable for an extended period of time. I will also be updating Professor Ziv and Six every two weeks (based on the above communication structure) on our progress via email. 
 
 #### Implementation Tasks
 + Ka Lun: Implementing visitor dashboard.
++ Eric: Working towards refining login/logout system, helping with events selection functionality and automated information update, and helping with population of dashboard information window. I also plan on specifically looking at how services will be managed by staff-side users.
 
 #### Testing Tasks
-+ Ka Lun: Dashboard functionality: Making sure information is being displayed on the visitor dashboard. 
++ Ka Lun: Dashboard functionality: Making sure information is being displayed on the visitor dashboard.
++ Eric: Will be continually debugging code and planning on performing cognitive walkthroughs with staff members. 
 
 #### Deployment Tasks
-+ Ka Lun: Test connecting between visitor login and visitor dashboard. Make sure you cannot use visitor accounts to login 
-+ through staff login. 
++ Ka Lun: Test connecting between visitor login and visitor dashboard. Make sure you cannot use visitor accounts to login through staff login. 
++ Eric: Assisting in taking system live, monitoring system on regular basis, and ensuring that system can be appropriately taken down for maintenance and quickly restored. 
