@@ -1,0 +1,56 @@
+Project Background:
+Clinic in the Park(CitP) is an Orange County-based nonproﬁt community health collaborative providing FREE health and wellness services. It’s mission is to establish innovative community-based one‐stop-shop‐for‐health model of health promotion.
+As an attempt to integrate community health into the health care system, We are building a patient record database system, for the purposes of recording and pulling patient information.
+Patients and providers will be able to access, input, and output information by accessing the database through the Clinic in the Park website. Patients will be able to look over medical information recorded by Clinic in the Park staff, like blood pressure recordings, the last time they have had a check-up at the park, and other information useful for patients. Staff will be able to access the same information as the clients, but they are allowed to input information onto the database through the website.  
+
+
+Objectives: 
+Allow CitP visitors to track their health data (e.g: BMI, check-ups, last visiting dates, other health information).
+Allow CitP staff members to track the progress and effectiveness of Clinic in the Park’s provided health services.
+Further help CitP visitors become more knowledgeable about health and help them make healthy choices in the future. 
+
+Scope: 
+
+Constraints: 
+	Requires users to have some knowledgeable of using computers as well as users having an interest in keeping track of the health data being stored. 
+
+Risks:
+	In order to create an electronic system to store user data, the system must be HIPPA compliant. However, the process to become HIPPA compliant is long and not every system satisfies the requirements. The success and release of this project is largely based on whether the system satisfies the HIPPA requirements on not. 
+	Undecided on how to track visitors in the system. In order to track users with their names, it is required for the system to be HIPPA compliant. However, if users are tracked with ID’s or other anonymous ways (e.g: emails, barcodes) the system does not need to be HIPPA compliant, but tracking users becomes more complex. 
+
+Assumptions/Dependencies:
+	For this project, it is assumed that at any of CitP’s events there will be WI-FI available for visitors or staff members to use. We also assume CitP staff/volunteers in charge of providing the health services use the system to store the visitor’s data directly after performing the service. 
+	It is also assumed that all users have an understanding of how to use a computer and navigate the system themselves. 
+
+Strategy:
+	The system will allow two types of users: an admin user and a normal user (also referred to as a visitor user). The admin user will be allowed to edit and update a visitor user’s profile with new health information. For the sake of security, the user is only allowed to read their health data which will be displayed in their user profiles. 
+
+Account registration:  
+Visitor accounts can be registered by existing admin users. Admin accounts will be created manually by the system administrator( The highest ranked account ). 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
